@@ -1,0 +1,9 @@
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    # Optional: Override or add rules
+    prefer_const_constructors: true
+
+analyzer:
+  # Optional: Add custom analyzer settings
